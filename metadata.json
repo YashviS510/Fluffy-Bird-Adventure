@@ -1,0 +1,6 @@
+{
+  "name": "Fluffy Bird Adventure",
+  "description": "A delightful and charming arcade flight game featuring cute fluffy birds, whimsical obstacles, smooth physics, and cozy soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
